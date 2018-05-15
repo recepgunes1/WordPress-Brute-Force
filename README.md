@@ -29,7 +29,7 @@ Elapsed Time (Sec): 268.9075803756714
 ```
 
 ## Requirement: ##
-- Selenium And Geckdriver
+- Selenium And Geckodriver
 - Firefox Browser
 - Python3
 
